@@ -1,0 +1,8 @@
+D:\Semester 2\Pemograman\PlaneTicket\PlaneTicket\bin\Debug\PlaneTicket.exe.config
+D:\Semester 2\Pemograman\PlaneTicket\PlaneTicket\bin\Debug\PlaneTicket.exe
+D:\Semester 2\Pemograman\PlaneTicket\PlaneTicket\bin\Debug\PlaneTicket.pdb
+D:\Semester 2\Pemograman\PlaneTicket\PlaneTicket\obj\Debug\PlaneTicket.csproj.AssemblyReference.cache
+D:\Semester 2\Pemograman\PlaneTicket\PlaneTicket\obj\Debug\PlaneTicket.csproj.SuggestedBindingRedirects.cache
+D:\Semester 2\Pemograman\PlaneTicket\PlaneTicket\obj\Debug\PlaneTicket.csproj.CoreCompileInputs.cache
+D:\Semester 2\Pemograman\PlaneTicket\PlaneTicket\obj\Debug\PlaneTicket.exe
+D:\Semester 2\Pemograman\PlaneTicket\PlaneTicket\obj\Debug\PlaneTicket.pdb
